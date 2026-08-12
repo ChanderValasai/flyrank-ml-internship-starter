@@ -1,0 +1,3 @@
+Trigger commit to run w03_data_contract workflow
+
+This file is intentionally empty. It exists to create a push to the run/w03-data-contract branch and trigger the GitHub Actions workflow that executes the notebook.
